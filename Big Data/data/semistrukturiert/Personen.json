@@ -1,0 +1,53 @@
+{
+  "personen": [
+    {
+      "name": "Müller",
+      "vorname": "Anna",
+      "alter": 28
+    },
+    {
+      "name": "Schmidt",
+      "vorname": "Lukas",
+      "alter": 34
+    },
+    {
+      "name": "Weber",
+      "vorname": "Sophie",
+      "alter": 22
+    },
+    {
+      "name": "Fischer",
+      "vorname": "Leon",
+      "alter": "30"
+    },
+    {
+      "name": "Wagner",
+      "vorname": "Marie"
+    },
+    {
+      "name": "Becker",
+      "vorname": "Jonas",
+      "alter": 40
+    },
+    {
+      "name": "Hoffmann",
+      "vorname": "Laura",
+      "alter": 31
+    },
+    {
+      "name": "Schäfer",
+      "vorname": "Paul",
+      "alter": 29
+    },
+    {
+      "name": "Koch",
+      "vorname": "Emma",
+      "alter": 24
+    },
+    {
+      "name": "Bauer",
+      "vorname": "Felix",
+      "alter": 35
+    }
+  ]
+}
